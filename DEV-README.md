@@ -1,3 +1,9 @@
+Currently you can:
+- list project 
+- go detail of a single project
+
+
+
 
 - get all projects: GET http://127.0.0.1:8000/projects
 - get project availability at specific date: GET http://127.0.0.1:8000/availability/{id}/{yyyy-mm-dd}
