@@ -1,5 +1,5 @@
 import React from 'react'
-import { Form, Input, Button, Checkbox, Card, Col } from 'antd'
+import { Form, Input, Button, Checkbox, Card } from 'antd'
 
 const LoginPage = () => {
   const onFinish = (values) => {

@@ -1,7 +1,7 @@
 import React from 'react'
-import { Form, Input, Button, Checkbox, Card } from 'antd'
+import { Form, Input, Button, Card } from 'antd'
 
-const LoginPage = () => {
+const RegisterPage = () => {
   const onFinish = (values) => {
     console.log('Success:', values)
   }
@@ -81,4 +81,4 @@ const LoginPage = () => {
   )
 }
 
-export default LoginPage
+export default RegisterPage
